@@ -3,3 +3,4 @@ Flask==3.0.3
 pandas==2.1.1
 numpy==2.1.0
 streamlit
+streamlit_option_menu
