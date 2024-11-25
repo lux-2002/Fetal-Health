@@ -1,6 +1,7 @@
+--extra-index-url https://pypi.org/simple
 altair==5.5.0
 Flask==3.0.3
+pandas==2.1.1
 numpy==2.1.0
-pandas==2.1.0
 python==3.12.3
 streamlit==1.40.1
