@@ -1,5 +1,4 @@
+numpy==2.1.0
 pandas==2.1.0
-numpy==2.1.0  # Ensure numpy is compatible with pandas
 streamlit
-streamlit_option_menu
---extra-index-url https://pypi.org/simple
+streamlit-option-menu
