@@ -1,6 +1,4 @@
-altair==5.5.0
-Flask==3.0.3
-pandas==2.1.1
-numpy==2.1.0
+pandas==2.1.0
+numpy==2.1.0  # Ensure numpy is compatible with pandas
 streamlit
 streamlit_option_menu
